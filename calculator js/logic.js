@@ -25,4 +25,3 @@ for (item of buttons) {
     })
 }
 
-ds
